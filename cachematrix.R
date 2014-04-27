@@ -1,5 +1,10 @@
-# "x" special object that stores the matrix in the cache
-# "i" special object that stores the inverse matrix in the cache
+###############################################################################################
+##JORGE ALBERTO VILLALTA MONTENEGRO 
+###############################################################################################
+## Those functions calculates the inverse matrix and store it in the cache
+## using 2 special objects;
+#      "x" special object that stores the matrix in the cache
+#      "i" special object that stores the inverse matrix in the cache
 # Created two function:
 ##########################################################################################
 # 1.  makeCacheMatrix: with this function create the special objetcts (i, x),
