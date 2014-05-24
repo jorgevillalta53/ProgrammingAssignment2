@@ -1,5 +1,5 @@
 ###############################################################################################
-##JORGE ALBERTO VILLALTA MONTENEGRO 
+##JORGE ALBERTO VILLALTA MONTENEGRO - May 2014
 ###############################################################################################
 ## Those functions calculates the inverse matrix and store it in the cache
 ## using 2 special objects;
